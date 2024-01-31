@@ -1,5 +1,9 @@
+# Languages
+
 ### Currently learning
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+
+ <br>
 
 ### Got experience in
 
